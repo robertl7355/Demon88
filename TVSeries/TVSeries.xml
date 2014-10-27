@@ -9,8 +9,8 @@
 <thumbnail>http://image.tmdb.org/t/p/original/5WdtVCyLCL6nwciUhZzVA8F0fMT.jpg</thumbnail>
 </dir>
 
-<item>
-<title>Gotham</title>
+<dir>
+<name>Gotham</name>
 <link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/Gotham.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/274431-1.jpg</thumbnail>
-</item>
+</dir>
