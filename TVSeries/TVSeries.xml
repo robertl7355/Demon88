@@ -4,9 +4,15 @@
 ##########################################################################################################################
 
 <dir>
-<name>The Walking Dead</name>
-<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/TheWalkingDead.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/original/5WdtVCyLCL6nwciUhZzVA8F0fMT.jpg</thumbnail>
+<name>Supernatural</name>
+<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/Supernatural.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/78901-33.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Flash</name>
+<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/TheFlash.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/279121-5.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -16,7 +22,7 @@
 </dir>
 
 <dir>
-<name>The Flash</name>
-<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/TheFlash.xml</link>
-<thumbnail>http://thetvdb.com/banners/posters/279121-5.jpg</thumbnail>
+<name>The Walking Dead</name>
+<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/TheWalkingDead.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/original/5WdtVCyLCL6nwciUhZzVA8F0fMT.jpg</thumbnail>
 </dir>
