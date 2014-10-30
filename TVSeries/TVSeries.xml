@@ -22,6 +22,12 @@
 </dir>
 
 <dir>
+<name>Arrow</name>
+<link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/Arrow.xml</link>
+<thumbnail>http://thetvdb.com/banners/posters/257655-19.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Agents of S.H.I.E.L.D.</name>
 <link>https://raw.githubusercontent.com/dm88/Demon88/master/TVSeries/AgentsofShield.xml</link>
 <thumbnail>http://thetvdb.com/banners/posters/263365-3.jpg</thumbnail>
